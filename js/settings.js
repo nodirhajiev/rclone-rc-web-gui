@@ -1,6 +1,6 @@
 var guiVersion = "0.1.2";
 
-var rcloneHost = "http://127.0.0.1";
+var rcloneHost = "http://localhost";
 var rclonePort = "5572";
 var rcloneUser = "user";
 var rclonePass = "password";
